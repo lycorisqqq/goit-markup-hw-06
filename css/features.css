@@ -27,6 +27,7 @@
 }
 
 .features-item-text {
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -84,5 +85,9 @@
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+  }
+
+  .features-item-text {
+    font-weight: 400;
   }
 }
